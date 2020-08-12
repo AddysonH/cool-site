@@ -1,0 +1,82 @@
+.bg-blue{
+    background-color: rgb(34, 61, 130);
+}
+
+.bg-lightBlue{
+    background-color: rgba(86, 174, 252, 0.208);
+}
+
+.text-white{
+    color: white;
+}
+
+.border-under{
+    border-bottom: 10px
+}
+
+.m-1{
+    margin: 50 50 0 300;
+}
+
+
+.m-2{
+    margin: 100 78 0 20;
+}
+
+.m-3{
+margin: 0 100 0 150;
+}
+
+
+div .h1{
+    text-align:center;
+}
+
+.p-1 {
+padding: 35px;
+}
+
+.p-2{
+    padding: 50px;
+}
+
+.border-black{
+    border: 2px solid black;
+}
+
+.box-size{
+    height: 20px;
+    width: 450px;
+    margin: 0 0 0 150;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.divH1{
+font-size: 30px;
+text-align: center;
+}
+
+.divH3{
+    font-size: 20px;
+    text-align: center;
+    }
+
+.main-art{
+    display: flex;
+}
+
+body{
+    margin: 0;
+}
+
+#blueImage{
+    width: 200px;
+    height: 100px;
+    background-color:rgba(38, 128, 206, 0.995);
+    color: white;
+}
+
